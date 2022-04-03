@@ -169,16 +169,16 @@ elif opcao == 6:
     print "fechando ferramenta"
     time.sleep(2)
     exit()
-elif opcao == 404
+elif opcao == 404:
     print "bem vindo ao skull society"
     print "esse e um comando secreto"
     print "feito apenas para membros"
     print "da skulls society"
     print
-    print "[ 123 ] LISTA DE SCRIPTS"
-    print "[ 1234 ] CURSO HACKING"
+    print "[ 11 ] LISTA DE SCRIPTS"
+    print "[ 12 ] CURSO HACKING"
 skull = int(input(DIGITE A SUA ESCOLHA : ))
-if skull == 123:
+if skull == 11:
     print '''
 Comandos básicos de Termux: 
  
@@ -1043,7 +1043,7 @@ sudo python2 zarp.py....
 _____________________________________
 '''
 
-elif skull == 1234:
+elif skull == 12:
     print ''' links de cursos
         https://www.academia.edu/31929275/Mini_Curso_Hacker
         
