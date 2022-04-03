@@ -180,8 +180,6 @@ elif opcao == 404:
 skull = int(input("digite sua escolha : "))
 if skull == 11:
     print '''
-Comandos básicos de Termux: 
- 
 Comando; apt update 
 Comando; apt upgrade 
 Comando; termux-setup-storage 
