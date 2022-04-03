@@ -116,7 +116,8 @@ elif opcao == 5:
     os.system("git clone https://github.com/sqlmapproject/sqlmap")
     os.system("figlet brute force")
     os.system("git clone https://github.com/IAmBlackHacker/Facebook-BruteForce")
-    os.system("figlet lazymux"
+    os.system("figlet lazymux")
+
 elif opcao == 6:
     print "fechando ferramenta"
     time.sleep(2)
