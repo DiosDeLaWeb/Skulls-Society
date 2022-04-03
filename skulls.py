@@ -36,7 +36,7 @@ os.system('gem install lolcat')
 
 #banner
 os.system("clear")
-print '''\033[92m                     "!@@@##!:
+print '''\033[92m                               "!@@@##!:
                                   !@@@@@@@@@@@@@@@#.
                               .@@@!  !@@@@@@@@@@@@@@@@@#
                    :#@@@!     .@@@:  !@@@@@@#  :#@@@@@@@@@#.
@@ -66,19 +66,19 @@ os.system('toilet -f standard "SOCIETY" -F gay')
 print '''
 \033[92m___________________________________________\033[0m
 \033[92m|                                          |\033[0m
-\033[92m|      \033[93mhttps://github.com/DiosDeLaWeb      \033[92m|\033[0m  \033[93m[ 1 ]\033[0m \033[92machar vulnerabilidades\033[0m
+\033[92m|\033[0m      https://github.com/DiosDeLaWeb      \033[92m|\033[0m  \033[93m[ 1 ]\033[0m \033[92machar vulnerabilidades\033[0m
 \033[92m|__________________________________________|\033[0m
-\033[92m|                               |\033[0m   Bem    \033[92m|\033[0m  \033[93m[ 2 ]\033[0m \033[92mpassword hack\033[0m
-\033[92m|\033[0m  \033[93mCodded by\033[0m : \033[94mDios De la Web\033[0m   \033[92m|  vindo   \033[92m|\033[0m
-\033[92m|\033[0m  \033[93mTeam\033[0m : \033[92mSkulls Society 404\033[0m    \033[92m|   esse   \033[92m|\033[0m  \033[93m[ 3 ] \033[92mhack cam\033[0m
-\033[92m|\033[0m  \033[93mLema\033[0m : \033[94mo enter faz a forca a\033[0m \033[92m|  script  \033[92m|\033[0m
-\033[92m|\033[0m  \033[94muniao faz os hackers\033[0m         \033[92m|  e dos   \033[92m|\033[0m  \033[93m[ 4 ] \033[92mattack ddos/dos\033[0m
+\033[92m|                               |   Bem    |\033[0m  \033[93m[ 2 ]\033[0m \033[92mpassword hack\033[0m
+\033[92m|\033[0m  \033[93mCodded by\033[0m : Dios De la Web   \033[92m|  vindo   \033[92m|\033[0m
+\033[92m|\033[0m  \033[93mTeam\033[0m : Skulls Society 404    \033[92m|   esse   \033[92m|\033[0m  \033[93m[ 3 ] \033[92mhack cam\033[0m
+\033[92m|\033[0m  \033[93mLema\033[0m : O enter faz a forca a \033[92m|  script  \033[92m|\033[0m
+\033[92m|\033[0m  uniao faz os hackers         \033[92m|  e dos   \033[92m|\033[0m  \033[93m[ 4 ] \033[92mattack ddos/dos\033[0m
 \033[92m|\033[0m                               \033[92m|  skulls  \033[92m|\033[0m    
 \033[92m|\033[0m  \033[93mSCRIPT PRIVATE DOS SKULLS\033[0m    \033[92m| society  \033[92m|\033[0m  \033[93m[ 5 ] \033[92minstalar todas\033[0m
 \033[92m|_______________________________|__________|\033[0m
              \033[93m[ 6 ]\033[0m \033[92msair\033[0m
 '''
-opcao = int(input("\033[93mNUMERO : \033[0m"))
+opcao = int(input("\033[93m----> SUA ESCOLHA E : \033[0m"))
 
 if opcao == 1:
     os.system("clear")
