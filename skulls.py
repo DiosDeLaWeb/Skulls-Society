@@ -122,5 +122,6 @@ elif opcao == 6:
     print "fechando ferramenta"
     time.sleep(2)
     exit()
-    else:
-        print "opcao invalida"
+ 
+else:
+    print "opcao invalida"
