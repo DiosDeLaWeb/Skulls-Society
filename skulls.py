@@ -177,6 +177,9 @@ elif opcao == 404:
     print
     print "[ 11 ] LISTA DE SCRIPTS"
     print "[ 12 ] CURSO HACKING"
+else:
+    print "opcao invalida"
+    os.system("python2 skulls.py")
 skull = int(input("digite sua escolha : "))
 if skull == 11:
     print '''
