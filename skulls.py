@@ -177,7 +177,7 @@ elif opcao == 404:
     print
     print "[ 11 ] LISTA DE SCRIPTS"
     print "[ 12 ] CURSO HACKING"
-skull = int(input(DIGITE A SUA ESCOLHA : ))
+skull = int(input("digite sua escolha : "))
 if skull == 11:
     print '''
 Comandos básicos de Termux: 
