@@ -227,51 +227,7 @@ Clear
 Tool-X 
 _____________________________________ 
  
-Setoolkit(pishing): 
- 
-pkg update 
-pkg upgrade 
-pkg install python 
-pkg install python2 
-git clone https://github.com/trustedsec/social-engineer-toolkit && cd social-engineer-toolkit 
- 
-python setup.py instala o  
-setoolkit 
- 
-Atualização:  
-mestre de origem git pull 
- 
-sudo ./setup.py instala  
-setoolkit 
- 
-_____________________________________
- ___________________________________ 
- 
-Brutal: 
- 
-apt update  
-apt install git  
-git clone http://github.com/Screetsec/Brutal  
-ls  
-cd Brutal  
-ls  
-chmod +x Brutal.sh  
-./Brutal.sh 
-_____________________________________ 
- 
-RED HAWK:  
- 
-pkg install git 
-pkg install php 
-pkg update 
-git clone https://github.com/Tuhinshubhra/RED_HAWK 
-cd RED_HAWK 
-chmod +x rhawk.php 
-php rhawk.php  
-Rhawk: (site) 
-Rhawk: 1 
-_____________________________________ 
- 
+
 NMap: 
  
 pkg install nmap 
