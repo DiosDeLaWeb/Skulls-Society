@@ -117,7 +117,6 @@ elif opcao == 5:
     os.system("figlet brute force")
     os.system("git clone https://github.com/IAmBlackHacker/Facebook-BruteForce")
     os.system("figlet lazymux"
-    os.system("git clone https://github.com/Gameye98/Lazymux")
 elif opcao == 6:
     print "fechando ferramenta"
     time.sleep(2)
