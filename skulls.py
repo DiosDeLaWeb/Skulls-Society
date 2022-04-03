@@ -180,36 +180,6 @@ elif opcao == 404:
 skull = int(input("digite sua escolha : "))
 if skull == 11:
     print '''
-Comando; apt update 
-Comando; apt upgrade 
-Comando; termux-setup-storage 
-Comando; cd (storage) 
-Comando; ls 
-Comando; cd /sdcard/Download/ 
-*(Mover arquivo para o Termux) 
-Comando; cd /sdcard/Download/(arquivo) $HOME 
-Comando; pwd (indicar a pasta atual) 
-Comando; cd /data/data/com.termux/files/home/ 
-Comando; unzip (arquivo) 
-*(Copiar e mandar) 
-Comando; cp (arquivo) /data/data/com.termux/usr/bin/ 
-Comando; cd /data/data/com.termux/usr/bin/ 
-Comando; cd /data/data/com.termux/files/home/ 
-*(Remover arquivos) 
-Comando; rm -r (arquivo) 
-Comando; cd .. (retroceder pasta) 
-*(Regressar a pasta home Termux) 
-Comando; cd /data/data/com.termux/files/home/ 
-Comando; [CTRL e ALT+c] 
-Comando; exit ou [CTRL+d] e enter pra ambos (eliminar sessão) 
-*(Instalar pacotes) 
-Comando; apt install (pacote) 
-Comando; apt list (listar pacotes) 
-*(abrir pagina com termux) 
-Comando; termux-open (site) 
-Comando; dpkg --print-architecture (Arquitetura) 
-Comando; ifconfig (informações) 
-python3 --version 
 _____________________________________ 
  pkg install git -y 
 git clone https://github.com/XCHADXFAQ77X/XERXES
