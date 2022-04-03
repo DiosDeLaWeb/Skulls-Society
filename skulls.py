@@ -200,7 +200,6 @@ Comando; rm -r (arquivo)
 Comando; cd .. (retroceder pasta) 
 *(Regressar a pasta home Termux) 
 Comando; cd /data/data/com.termux/files/home/ 
-*(Abrir sessão nova) 
 Comando; [CTRL e ALT+c] 
 Comando; exit ou [CTRL+d] e enter pra ambos (eliminar sessão) 
 *(Instalar pacotes) 
