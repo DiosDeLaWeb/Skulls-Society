@@ -36,7 +36,7 @@ os.system('gem install lolcat')
 
 #banner
 os.system("clear")
-print '''\033[92m"!                                    @@@@@##!:.
+print '''\033[92m"!               @@@@@##!:.
                                   !@@@@@@@@@@@@@@@#.
                               .@@@!  !@@@@@@@@@@@@@@@@@#
                    :#@@@!     .@@@:  !@@@@@@#  :#@@@@@@@@@#.
@@ -76,7 +76,7 @@ ___________________________________________
 |                               |  skulls  |    
 |  SCRIPT PRIVATE DOS SKULLS    | society  |  [ 5 ] instalar todas
 |_______________________________|__________|
-                                [ 6 ] sair
+             [ 6 ] sair
 '''
 opcao = inp(input("NUMERO :"))
 
