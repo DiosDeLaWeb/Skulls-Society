@@ -1042,8 +1042,9 @@ sudo python2 zarp.py....
  
 _____________________________________
 '''
-    elif skull == 1234:
-        print ''' links de cursos
+
+elif skull == 1234:
+    print ''' links de cursos
         https://www.academia.edu/31929275/Mini_Curso_Hacker
         
         https://www.academia.edu/33747080/Manual_Hacker
