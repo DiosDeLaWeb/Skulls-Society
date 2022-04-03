@@ -110,7 +110,7 @@ elif opcao == 3:
 elif opcao == 4:
     os.system("clear")
     os.system('toilet -f standard "DDOS" -F gay')
-    .system("figlet dios ddos")
+    os.system("figlet dios ddos")
     os.system("git clone https://github.com/DiosDeLaWeb/Dios-DDos")
     os.system("figlet torshammer")
     os.system("git clone https://github.com/dotfighter/torshammer ")
